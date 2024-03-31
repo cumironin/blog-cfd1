@@ -2,3 +2,4 @@
 binding = "DB" # i.e. available in your Worker on env.DB
 database_name = "test-db"
 database_id = "635dc2a7-6ff1-4154-b7d7-67b64f186783"
+migrations_dir="./app/drizzle/migrations"
