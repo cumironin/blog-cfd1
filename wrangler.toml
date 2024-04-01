@@ -1,5 +1,5 @@
 [[d1_databases]]
 binding = "DB" # i.e. available in your Worker on env.DB
-database_name = "test-db"
-database_id = "635dc2a7-6ff1-4154-b7d7-67b64f186783"
+database_name = "blog-cfd1"
+database_id = "17dde829-cd69-45b6-9b79-a2cf5ee87ec9"
 migrations_dir="./app/drizzle/migrations"
